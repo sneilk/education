@@ -1,6 +1,6 @@
 # Education folder
 
-## Folder for solutions of tasks on learning programming languages and DataScience
+## Folder for solutions of tasks for the study programming languages and DataScience
 
 This folder contains:
 
